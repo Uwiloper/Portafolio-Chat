@@ -3,7 +3,7 @@
 Este proyecto es un **portafolio web interactivo** diseñado como un **chat conversacional**, donde el visitante puede navegar entre diferentes secciones a través de mensajes simulados.  
 La idea principal es ofrecer una **experiencia diferente y original** frente a los típicos portafolios estáticos, mostrando información como si fuera una conversación.
 
-**https://uwiloper.github.io/Chat-Portafolio/**
+**https://uwiloper.github.io/Portafolio-Chat/**
 
 ---
 
