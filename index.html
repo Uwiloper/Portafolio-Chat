@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wilmer Carrasco - Chat Portafolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilos.css" />
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <div id="header">
+    <div id="profile">
+      <img src="perfil.png" alt="Foto de Wilmer Carrasco" />
+      <div class="info">
+        <strong>Wilmer Carrasco</strong>
+        <small>Junior Dev.</small>
+      </div>
+    </div>
+
+    <!--
+    <div class="theme-toggle">
+      <button id="theme-toggle-btn" title="Cambiar tema">🌓</button>
+    </div>
+    -->
+
+     <div id="social">
+      <a href="https://www.linkedin.com/in/wilmer-carrasco-hernandez-46a009199/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/uwiloper" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.instagram.com/uwilcsmre/" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
+
+  
+  </div>
+
+  <main>
+    <div id="chat"></div>
+  </main>
+
+  <div id="main-buttons">
+    <div class="button-grid">
+      <div class="button-row">
+        <button data-section="experiencia"><i class="fas fa-briefcase"></i> Experiencia</button>
+        <button data-section="sobreMi"><i class="fas fa-user"></i> Sobre Mí</button>
+      </div>
+      <div class="button-row">
+        <button data-section="proyectos"><i class="fas fa-folder-open"></i> Proyectos</button>
+        <button data-section="formacion"><i class="fas fa-graduation-cap"></i> Formación</button>
+      </div>
+      <div class="button-row">
+        <button data-section="habilidades"><i class="fas fa-cogs"></i> Habilidades</button>
+        <button data-section="contacto"><i class="fas fa-envelope"></i> Contacto</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="input-area">
+    <input type="text" placeholder="Escribe aquí..." />
+    <button><i class="fas fa-paper-plane"></i></button>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
