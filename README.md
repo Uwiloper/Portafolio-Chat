@@ -37,4 +37,10 @@ La idea principal es ofrecer una **experiencia original** frente a los típicos 
 ![Banner-Chat-Portafolio-01](https://github.com/user-attachments/assets/1561f7e9-b593-462e-915e-28a8318ee4cb)
 
 
-//En proceso
+<!-- En proceso 
+- Cuando se generan los textos, los demás botones deben estar bloqueados
+- Cambiar a otro tema que no sea portafolio
+- Añadir imágenes y otros elementos para entregar variedad
+- No usar dependencias para hacer el trabajo sencillo, ligero y facil de levantar
+-->
+
