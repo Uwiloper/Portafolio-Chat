@@ -1,13 +1,17 @@
-# 💬 Chat Portafolio
+# Chat Portafolio
 
-Este proyecto es un **portafolio web interactivo** diseñado como un **chat conversacional**, donde el visitante puede navegar entre diferentes secciones a través de mensajes simulados.  
-La idea principal es ofrecer una **experiencia diferente y original** frente a los típicos portafolios estáticos, mostrando información como si fuera una conversación.
+Este proyecto sencillo, diseñado como un **chat conversacional**, donde el visitante puede navegar entre diferentes secciones a través de mensajes simulados.
+La idea principal es ofrecer una **experiencia original** frente a los típicos estáticos, mostrando la información como si fuera una conversación.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **https://uwiloper.github.io/Portafolio-Chat/**
 
 ---
 
-## ✨ Características
+## Características
 
 ✔️ **Diseño tipo chat**: cada sección aparece como mensajes en una conversación.  
 ✔️ **Secciones principales**: Sobre mí, Experiencia, Proyectos y Contacto.  
@@ -19,7 +23,7 @@ La idea principal es ofrecer una **experiencia diferente y original** frente a l
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## Estructura
 
 - **`index.html`** → Estructura base del portafolio en formato de chat.  
 - **`css/estilos.css`** → Estilos visuales que simulan una aplicación de mensajería (globos de texto, colores, botones, diseño responsive).  
@@ -30,23 +34,7 @@ La idea principal es ofrecer una **experiencia diferente y original** frente a l
 
 ---
 
-## ⚙️ Tecnologías Usadas
+![Banner-Chat-Portafolio-01](https://github.com/user-attachments/assets/1561f7e9-b593-462e-915e-28a8318ee4cb)
 
-- **HTML** → Estructura del sitio.  
-- **CSS** → Estilos, diseño de chat y responsividad básica.  
-- **JavaScript** → Interactividad del chat.  
-
----
-
-## 🌟 Puntos fuertes del proyecto
-
-- 💡 **Originalidad**: no es un portafolio común, la idea de chat lo hace llamativo y memorable.  
-- 📱 **Simplicidad**: es fácil de entender y rápido de cargar.  
-- 🛠️ **Mantenible**: al estar hecho sin frameworks, se puede modificar fácilmente.  
-- 🔧 **Escalable**: permite agregar nuevas secciones o funcionalidades sin romper la base.  
-- 🌍 **Ideal para mostrar en entrevistas**: genera curiosidad y refleja creatividad.  
-
----
-![Banner-Chat-Portafolio-01](https://github.com/user-attachments/assets/9967cf17-0d1a-4d03-83f0-b201307d0119)
 
 //En proceso
